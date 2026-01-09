@@ -1,4 +1,4 @@
 mvn sonar:sonar \
   -Dsonar.projectKey=rajeshproject \
-  -Dsonar.host.url=http://54.193.97.228:9000 \
-  -Dsonar.login=c034709038c66d378c89adc91199b4b68f0a4e00
+  -Dsonar.host.url=http://54.151.88.11:9000 \
+  -Dsonar.login=12cc1e1fd3535f76af0b0a32efcd7fbb86c413e5
